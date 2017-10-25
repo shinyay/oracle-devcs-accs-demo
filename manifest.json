@@ -1,0 +1,12 @@
+{
+    "runtime": {
+        "majorVersion": "8"
+    },
+    "command": "java -jar employees-app-final.jar",
+    "release": {
+        "version": "0.2.0",
+        "build": "24",
+        "commit": "1A2B345"
+    },
+    "notes": "Employees Web Apllication using Bootstrap"
+}
